@@ -11,14 +11,6 @@ A‑Maze‑ing is a Python 3.10+ project that generates mazes — either **perfe
 - **Python 3.10** or newer.
 - **Git**.
 
-### Installing the MLX library
-```bash
-git clone https://github.com/42school/mlx_CLXV.git
-cd mlx_CLXV
-./configure.sh
-make
-```
-
 ### Installing the project
 ```bash
 make install
@@ -26,7 +18,7 @@ make install
 Make install will:
     -create a virtual environment
     -install Python dependencies
-    -install the maze generator package
+    -install the maze mlx library
 
 
 ### Running the application
