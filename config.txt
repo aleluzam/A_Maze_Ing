@@ -1,0 +1,14 @@
+WIDTH=20
+HEIGHT=20
+ENTRY=0,0
+EXIT=15,7
+OUTPUT_FILE=maze.txt
+PERFECT=False
+
+# NUTRIA =              ___
+# NUTRIA =           .="   "=._.---.
+# NUTRIA =         ."         c ' Y'`p
+# NUTRIA =        /   ,       `.  w_/
+# NUTRIA =        |   '-.   /     /
+# NUTRIA =  _,..._|      )_-\ \_=.\
+# NUTRIA = `-....-'`------)))`=-'"`'"
