@@ -16,9 +16,9 @@ A‑Maze‑ing is a Python 3.10+ project that generates mazes — either **perfe
 make install
 ```
 Make install will:
-    -create a virtual environment
-    -install Python dependencies
-    -install the maze mlx library
+    - create a virtual environment
+    - install Python dependencies
+    - install the maze mlx library
 
 
 ### Running the application
